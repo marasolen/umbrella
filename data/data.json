@@ -1,0 +1,150 @@
+[
+    {
+        "word": "umbra", 
+        "language": "Latin",
+        "association": "☀️ 🛡️",
+        "pos": [0, 0]
+    },
+    {
+        "word": "sol",
+        "language": "Latin",
+        "association": "☀️",
+        "pos": [1, 0.1]
+    },
+    {
+        "word": "cadere",
+        "language": "Latin",
+        "association": "⬇️",
+        "pos": [2, 0]
+    },
+    {
+        "word": "parare",
+        "language": "Latin",
+        "association": "🛡️",
+        "pos": [3, 0.1]
+    },
+    {
+        "word": "pluvia",
+        "language": "Latin",
+        "association": "🌧️",
+        "pos": [4, 0]
+    },
+
+
+    {
+        "word": "fallaz",
+        "language": "Proto-Germanic",
+        "association": "⬇️",
+        "pos": [6, 0]
+    },
+    {
+        "word": "sunno",
+        "language": "Proto-Germanic",
+        "association": "☀️",
+        "pos": [7, 0.1]
+    },
+    {
+        "word": "skirmiz",
+        "language": "Proto-Germanic",
+        "association": "🛡️",
+        "pos": [8, 0]
+    },
+    {
+        "word": "regna",
+        "language": "Proto-Germanic",
+        "association": "🌧️",
+        "pos": [9, 0.1]
+    },
+
+
+    {
+        "word": "parasol", 
+        "language": "French",
+        "association": "🛡️ ☀️",
+        "formed": ["sol", "parare"],
+        "pos": [2, 1]
+    },
+    {
+        "word": "parachute", 
+        "language": "French",
+        "association": "🛡️ ⬇️",
+        "formed": ["cadere", "parare"],
+        "pos": [3, 1.1]
+    },
+    {
+        "word": "parapluie", 
+        "language": "French",
+        "association": "🛡️ 🌧️",
+        "formed": ["pluvia", "parare"],
+        "pos": [4, 1]
+    },
+
+
+    {
+        "word": "Fallschirm", 
+        "language": "German",
+        "association": "⬇️ 🛡️",
+        "formed": ["fallaz", "skirmiz"],
+        "pos": [7, 1.1]
+    },
+    {
+        "word": "Sonnenschirm", 
+        "language": "German",
+        "association": "☀️ 🛡️",
+        "formed": ["sunno", "skirmiz"],
+        "pos": [8, 1]
+    },
+    {
+        "word": "Regenschirm", 
+        "language": "German",
+        "association": "🌧️ 🛡️",
+        "formed": ["regna", "skirmiz"],
+        "pos": [9, 1.1]
+    },
+
+
+    {
+        "word": "parasol", 
+        "language": "English",
+        "association": "🛡️ ☀️",
+        "borrowed": "parasolFrench",
+        "pos": [1, 2.1]
+    },
+    {
+        "word": "umbrella", 
+        "language": "English",
+        "association": "🌧️ 🛡️",
+        "formed": ["umbra"],
+        "pos": [0, 2]
+    },
+    {
+        "word": "parachute", 
+        "language": "English",
+        "association": "🛡️ ⬇️",
+        "borrowed": "parachuteFrench",
+        "pos": [2, 2]
+    },
+
+
+    {
+        "word": "parasoll", 
+        "language": "Norwegian",
+        "association": "🛡️ ☀️",
+        "borrowed": "parasolFrench",
+        "pos": [4, 2]
+    },
+    {
+        "word": "paraply", 
+        "language": "Norwegian",
+        "association": "🛡️ 🌧️",
+        "borrowed": "parapluieFrench",
+        "pos": [5, 2.1]
+    },
+    {
+        "word": "fallskjerm", 
+        "language": "Norwegian",
+        "association": "⬇️ 🛡️",
+        "borrowed": "FallschirmGerman",
+        "pos": [6, 2]
+    }
+]
